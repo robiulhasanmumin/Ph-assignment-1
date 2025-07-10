@@ -21,6 +21,12 @@
   font-size: 16px;
   font-weight: bold;
 }
+.btn:hover{
+  background-color: springgreen;
+  transition: 0.4s;
+}
+
+
 /* Header section */
 header{
   height: 698px;
@@ -48,4 +54,30 @@ nav{
   margin-top: 170px;
   margin-bottom: 30px;
 }
+
+
+/* Main section */
+main{
+  padding: 116px 160px;
+}
+/* sec1 */
+.sec1{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.sec1-title{
+  font-size: 42px;
+  margin-bottom: 15px;
+}
+.sec1-description{
+  font-size: 20px;
+  color: #252432;
+  margin-bottom: 20px;
+}
+.sec1-img{
+  border-radius: 50px;
+}
+
+/* sec2 */
 
