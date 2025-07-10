@@ -148,3 +148,26 @@ main{
   color: #77768b;
 }
 
+
+/* sec4 */
+.sec4{
+  background-color: white;
+  padding: 70px 160px;
+  margin-top: 116px;
+  text-align: center;
+  border-radius: 20px;
+}
+.sec4-title{
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+.sec4-description{
+  color: #77768b;
+  font-size: 17px;
+  margin-bottom: 25px;
+}
+.sec4-img{
+  margin-top: 25px;
+  border-radius: 50px;
+}
+
