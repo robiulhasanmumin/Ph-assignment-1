@@ -72,7 +72,7 @@ main{
 }
 .sec1-description{
   font-size: 20px;
-  color: #252432;
+  color: #77768b;
   margin-bottom: 20px;
 }
 .sec1-img{
@@ -80,4 +80,26 @@ main{
 }
 
 /* sec2 */
-
+.sec2{
+  margin-top: 116px;
+  background-color: rgb(237, 248, 242);
+  border-radius: 30px;
+  padding: 40px 120px;
+}
+.sec2-title{
+  text-align: center;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+.sec2-items{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.sec2-item-explain{
+  font-size: 80px;
+  color: seagreen;
+}
+.sec2-item{
+ text-align: center;
+}
