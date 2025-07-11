@@ -44,6 +44,7 @@ nav{
   font-size: 34px;
   font-weight: bold;
   color: seagreen;
+  font-weight: 900;
 }
 
 .banner{
@@ -205,6 +206,32 @@ form label{
   width: 100%;
   padding: 20px;
   margin-top: 5px;
+}
+
+
+/* Footer */
+footer{
+  text-align: center;
+  padding: 100px 0;
+}
+.footer-title{
+  font-size: 100px;
+  color: seagreen;
+  font-weight: 800;
+  margin-bottom: 25px;
+}
+footer ul{
+   display: inline-flex;
+   gap: 50px;
+   margin-top: 5px;
+}
+footer ul li{
+  list-style-type: none;
+}
+footer ul li a{
+  text-decoration: none;
+  color: #77768b;
+  font-size: 18px;
 }
 
 
