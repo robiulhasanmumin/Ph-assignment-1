@@ -171,3 +171,40 @@ main{
   border-radius: 50px;
 }
 
+/* sec5 */
+.sec5{
+  margin-top: 150px;
+}
+.sec5-title{
+  font-size: 97px;
+}
+.sec5-items{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 80px;
+}
+.sec5-item{
+  width: 50%;
+}
+form input , textarea{
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  width: 100%;
+  padding: 20px 32px;
+  font-size: 20px;
+  border-radius: 10px;
+  border: 1px solid #dedee9;
+}
+form label{
+  font-size: 18px;
+  font-weight: bold;
+}
+.sec5-btn{
+  width: 100%;
+  padding: 20px;
+  margin-top: 5px;
+}
+
+
